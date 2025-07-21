@@ -5,8 +5,8 @@ import { getStorage } from "firebase/storage";
 
 // 🔹 Your Firebase Config
 const firebaseConfig = {
-  apiKey: "AIzaSyBKPEyMbACewWmNhf65bjy4Oz8fM_4tpDE",
-  authDomain: "healthtrackerapp-7841f.firebaseapp.com",
+  apiKey: "your key",
+  authDomain: "healthtrackerap",
   projectId: "healthtrackerapp-7841f",
   storageBucket: "healthtrackerapp-7841f.appspot.com",
   messagingSenderId: "800283356427",
